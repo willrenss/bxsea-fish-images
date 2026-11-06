@@ -1,6 +1,6 @@
 # Kredit foto
 
-Setiap PNG adalah potongan (latar dihapus, diganti putih) dari foto iNaturalist di bawah. Lisensi foto asli
+Setiap PNG adalah potongan (latar dihapus, transparan) dari foto iNaturalist di bawah. Lisensi foto asli
 tetap berlaku untuk PNG-nya: cantumkan nama fotografer saat dipakai. Lisensi **NC** (NonCommercial) tidak
 boleh dipakai untuk keperluan komersial; **SA** (ShareAlike) harus dibagikan ulang dengan lisensi yang sama.
 
